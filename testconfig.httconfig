@@ -1,0 +1,13 @@
+fontes :
+	h1 > Dancing Script,
+	span > Roboto,
+	p > Red Hat Mono
+
+tema :
+	default
+
+estilo :
+	dark
+
+tags_custom :
+	./customs

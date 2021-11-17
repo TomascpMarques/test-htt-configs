@@ -1,8 +1,11 @@
-<section>
-	Supper Cool template tag
-</section>
+<html>
+    <section>
+	    Supper Cool template tag
+    </section>
+<html>
 
-
-background-color: tomato;
-padding: 1rem;
-border: 4px dashed blue;
+<css>
+    background-color: tomato;
+    padding: 1rem;
+    border: 4px dashed blue;
+<css>

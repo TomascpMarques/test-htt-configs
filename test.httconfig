@@ -1,0 +1,13 @@
+fontes :
+	h1 > Yuji Mai,
+	span > Roboto,
+	p > Red Hat Mono
+
+tema :
+	default
+
+estilo :
+	dark
+
+tags_custom :
+	TomascpMarques/test-htt-configs/main/customs-test/manifesto.htt

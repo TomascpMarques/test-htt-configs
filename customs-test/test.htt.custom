@@ -1,11 +1,13 @@
 <html>
-    <section>
+    <section class="some">
 	    Supper Cool template tag
     </section>
 <html>
 
 <css>
-    background-color: tomato;
-    padding: 1rem;
-    border: 4px dashed blue;
+    .some {
+        padding: 10px;
+        border: 2px solid tomato;
+        box-shadow: 2px 2px 3px 1px gainsboro;
+    } 
 <css>

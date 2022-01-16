@@ -1,6 +1,6 @@
 fontes :
-	h1 > JetBrains Mono,
-	span > Roboto,
+	h1 > JetBrains Mono:.
+	span > Roboto:.
 	p > Red Hat Mono
 
 tema :
